@@ -1,0 +1,58 @@
+---
+# ------------------------------------------------------
+#                   Core Template's
+# ------------------------------------------------------
+---
+template: template_header
+content: |
+  *** MISSING CONTENT ***
+---
+template: template_footer
+content: |
+    <div style="display: flex; height: 200px; align-items: flex-end; flex-direction: row-reverse">
+    <div style="margin: 5px"><img src="https://staff.flinders.edu.au/etc.clientlibs/flinders/clientlibs/clientlib-site/resources/images/flinderuni_main_logo_black.png" height="40">
+    </div>
+    <div style="margin: 5px; text-align: center">
+    <cite><small><i>
+    Developed by Flinders University in collaboration with the Royal Society for the Blind
+    </i></small></cite>
+    </div>
+    </div>
+---
+# ------------------------------------------------------
+#                   Legal Template's
+# ------------------------------------------------------
+---
+template: template_disclaimer
+content: |
+  *** MISSING CONTENT ***
+---
+template: template_disclaimer_under
+content: |
+  *** MISSING CONTENT ***
+---
+template: template_privacy_policy
+content: |
+  *** MISSING CONTENT ***
+---
+# ------------------------------------------------------
+#                   Endpoint Template's
+# ------------------------------------------------------
+---
+template: template_successful
+content: |
+  *** MISSING CONTENT ***
+---
+template: template_error
+content: |
+  You have indicated that you require other services not listed in this application.
+  
+  <br>Please contact the Royal Society for the Blind for information on the specific service type you require.<br>
+  <br>**Phone:** 1300 944 306<br>
+  **Website:** www.rsb.org.au<br>
+  **Email:** contact@rsb.org.au
+---
+template: template_help
+content: |
+  *** MISSING CONTENT ***
+---
